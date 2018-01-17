@@ -1,9 +1,8 @@
-#import <stdio.h>
+#include <stdio.h>
 
-int main()
-
-{
-	printf("Hello, Joe!\n");
-
-	return 0;
+int main(void)
+{	
+	while(1)
+	printf("Hello guy\n");
+		return 0;
 }
